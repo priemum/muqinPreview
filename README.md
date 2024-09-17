@@ -1,4 +1,4 @@
- #Mutqan is the first Arab artificial intelligence tool that serves to complete content writing tasks through achatbot, through reformulation, through writing content, and through writing an article. Integration has
+ # Mutqan is the first Arab artificial intelligence tool that serves to complete content writing tasks through achatbot, through reformulation, through writing content, and through writing an article. Integration has
  been made with GPT chat.
 ![MacBook Pro 16](https://github.com/user-attachments/assets/41c4ca50-5b41-4816-b8e5-d061dfdad9b0)
 ![home page scroll](https://github.com/user-attachments/assets/92fc1f93-3e0d-4246-9d42-0ec0cd2e50a6)
