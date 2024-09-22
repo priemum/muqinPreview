@@ -7,7 +7,7 @@ import "../index.scss";
 import { useAppDispatch, useAppSelector } from "@/redux/hooks";
 import { useParams, useSearchParams } from "react-router-dom";
 import { getDocument, setCurrentDoc } from "@/redux/features/api/apiSlice";
-import WelcomeModal from "@/components/molecules/WelcomeModal";
+import WelcomeModal from "@/components/molecules/WelcomeModal";     
 
 const EditorPage = () => {
   const { breakpoint } = useBreakpoint(BREAKPOINTS, "mobile");
